@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4605A3AE-DAB1-4EDD-ACAA-F39827AD5491</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Factorer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>62FFDA37E54754AC671220392C63FAB6B2A168FC</key>
+		<string>https://github.com/hammadkhan97/Factorer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Factorer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>62FFDA37E54754AC671220392C63FAB6B2A168FC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hammadkhan97/Factorer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>62FFDA37E54754AC671220392C63FAB6B2A168FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>62FFDA37E54754AC671220392C63FAB6B2A168FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Factorer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
